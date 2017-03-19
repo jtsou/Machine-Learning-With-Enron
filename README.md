@@ -1,10 +1,4 @@
 # Machine Learning With Enron
-<style>
-h2 {
-color: red;
-}
-</style>
-
 <h2>Summary and Goal</h2> 
 <p>
 The goal of this project is to utilize the financial and email dataset from Enron Corpus, which was made public by US Federal Energy Regulatory Commission during its investigation of Enron, is to establish a model that predicts an individual as a “Person of Interest” (POI). The corpus contains email and financial data of 146 people, most of which are senior management of Enron. The corpus is widely used for various machine learning problems.
